@@ -1,0 +1,21 @@
+# Apple
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Swift
+.build/
+Packages/
+Package.resolved
+.swiftpm/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+
+# Distribution
+dist/
+
+# Scripts
+/tmp/balenciaga_writer_validation
